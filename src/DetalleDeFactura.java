@@ -20,6 +20,6 @@ public class DetalleDeFactura {
         System.out.println("La factura a nombre de: " + factura +
                 "\ntiene un total antes de impuestos de: " + beforeTax +
                 "\ncon un impuesto del 19% equivalente a: " + tax +
-                "\nsiendo un monto total despues de impuestos a: " + total);
+                "\nsiendo un monto total después de impuestos a: " + total);
     }
 }
