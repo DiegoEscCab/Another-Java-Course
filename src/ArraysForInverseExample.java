@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class EjemploArraysForInverse {
+public class ArraysForInverseExample {
     public static void main(String[] args) {
 
         String[] productos = {

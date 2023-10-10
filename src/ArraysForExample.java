@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class EjemploArraysFor {
+public class ArraysForExample {
     public static void main(String[] args) {
 
         String[] productos = new String[7];

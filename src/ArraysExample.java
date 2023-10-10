@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class EjemploArrays {
+public class ArraysExample {
     public static void main(String[] args) {
 
         String[] productos = new String[7];
@@ -30,8 +30,6 @@ public class EjemploArrays {
         System.out.println("prod5 = " + prod5);
         System.out.println("prod6 = " + prod6);
         System.out.println("prod7 = " + prod7);
-
-
 
         int[] numeros = new int[4];
 
